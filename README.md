@@ -1,6 +1,6 @@
 # SMILe EEG Toolbox (MATLAB)
 
-MATLAB code from the Sensorimotor Integration Lab (SMILe) for EEG preprocessing, spectral and time-frequency analysis, functional connectivity, graph theory, surrogate data, and permutation statistics. Written by J. Christopher Mizelle, PhD, for lab studies of brain injury, aging, and sensorimotor control.
+MATLAB code from the Sensorimotor Integration Lab (SMILe) for EEG preprocessing, spectral and time-frequency analysis, functional connectivity, graph theory, surrogate data, and permutation statistics. Written by J.C. (Chris) Mizelle, PhD, for lab studies of brain injury, aging, and sensorimotor control.
 
 About 17,000 lines across 70 functions and scripts. Most functions follow one pattern: data in as `chan x time x trial` arrays (or an EEGLAB `EEG` struct), options in a `cfg` struct with documented defaults, and an input/output header.
 
